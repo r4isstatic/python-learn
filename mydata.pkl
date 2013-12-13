@@ -1,0 +1,10 @@
+(dp0
+S'user'
+p1
+S'paul'
+p2
+sS'pass'
+p3
+S'swipe'
+p4
+s.
